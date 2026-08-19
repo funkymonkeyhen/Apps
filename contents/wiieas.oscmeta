@@ -11,7 +11,7 @@
         "peripherals": [
             "Wii Remote",
             "Classic Controller",
-            "Nunchuk"
+            "Nunchuk",
             "GameCube Controller",
             "SDHC"
         ],
